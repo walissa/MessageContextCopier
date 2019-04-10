@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BizTalkComponents.PipelineComponents.MessageContextCopier</id>
+    <version>1.0.0</version>
+    <title>MessageContextCopier</title>
+    <authors>waal</authors>
+    <owners>waal</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This component copies message context as commented XML node before the root's closing tag.</description>    
+  </metadata>
+  <files>
+    <file src="bin\release\BizTalkComponents.PipelineComponents.MessageContextCopier.dll" target="lib\net45"/>
+  </files>
+</package>
