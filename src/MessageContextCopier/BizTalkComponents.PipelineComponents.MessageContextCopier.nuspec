@@ -4,8 +4,12 @@
     <id>BizTalkComponents.PipelineComponents.MessageContextCopier</id>
     <version>1.0.0</version>
     <title>MessageContextCopier</title>
-    <authors>waal</authors>
-    <owners>waal</owners>
+    <authors>Wael Alissa</authors>
+    <owners>Wael Alissa</owners>
+    <projectUrl>https://github.com/walissa/MessageContextCopier</projectUrl>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>BizTalk</tags>    
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This component copies message context as commented XML node before the root's closing tag.</description>    
   </metadata>
